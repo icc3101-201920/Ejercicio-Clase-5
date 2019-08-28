@@ -1,0 +1,7 @@
+﻿Warrior,Phil,80
+Warrior,James,40
+Mage,John,50
+Druid,Juan,55
+Assassin,Rocky,60
+Necromancer,Robert,70
+Knight,Fergus,90
